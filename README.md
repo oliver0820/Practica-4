@@ -3,8 +3,6 @@ Este repositorio contiene las pruebas automatizadas realizadas con **Selenium We
 el reporte generado con **Mochawesome**. Las pruebas están enfocadas en validar funcionalidades principales del 
 sistema como el login, registro, navegación, cierre de sesión, etc.
 
----
-# Reciclaje #El reporte html se encuentra en la ruta :  mochawesome-report\mochawesome.html  del zip: test_web_reciclaje
 
 
 ## 🧪 Tecnologías utilizadas
